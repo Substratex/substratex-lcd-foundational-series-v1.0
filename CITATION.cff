@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use or discuss this foundational series, cite the relevant manuscript edition."
+title: "SubstrateX Longitudinal Computational Dynamics Foundational Series"
+type: collection
+authors:
+  - family-names: "Asadi"
+    given-names: "Arjay"
+    affiliation: "SubstrateX Longitudinal Labs"
+    email: "arjay.asadi@substratex.ai"
+year: 2026
+version: "1.0"
+license: "Proprietary non-commercial research access; see LICENSE.md"
+repository-code: ""
+url: "https://www.arjayasadi.com"
+keywords:
+  - Longitudinal Computational Dynamics
+  - Longitudinal Computational Behavior
+  - Runtime Evidence
+  - Evidence-Governed Computation
+  - Chronodynamics
+  - SubstrateX Aperture
